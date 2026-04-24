@@ -16,7 +16,7 @@
 ---
 
 ```python
-class 0p4n1k:
+class _0p4n1k:
     age      = 16
     location = "Haute-Savoie, France 🏔️"
     focus    = ["obfuscation", "deobfuscation", "bytecode"]
